@@ -1,3 +1,4 @@
+name             'chef-jython'
 maintainer       "Mark Roddy"
 maintainer_email "markroddy a t gmail d-o-t com"
 license          "apache"
